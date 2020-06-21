@@ -1,6 +1,7 @@
 .grid {
     width: 200px;
     height: 400px;
+    display: flex;
     background-color: yellow;
 }
 
