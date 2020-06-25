@@ -16,4 +16,5 @@ const lTetromino = [
 const zTetromino = [
     [0, width, width + 1, width * 2 + 1],
     [width + 1, width + 2, width * 2, width * 2 + 1],
+    [0, width, width + 1, width * 2 + 1],
 ];
