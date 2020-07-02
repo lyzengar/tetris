@@ -21,5 +21,5 @@ const zTetromino = [
 ];
 
 const tTeromino = [
-    
+    [1, width, width + 1, width + 2],
 ]
