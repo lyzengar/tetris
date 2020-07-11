@@ -33,3 +33,7 @@ const oTetromino = [
     [0, 1, width, width + 1],
     [0, 1, width, width + 1]
 ]
+
+const iTetromino = [
+    
+]
