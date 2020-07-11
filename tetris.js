@@ -35,5 +35,5 @@ const oTetromino = [
 ]
 
 const iTetromino = [
-    1, width + 1, width * 2 + 1, width * 3 + 1],
+    [1, width + 1, width * 2 + 1, width * 3 + 1],
 ]
