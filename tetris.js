@@ -41,4 +41,4 @@ const iTetromino = [
     [width, width + 1, width + 2, width + 3]
 ];
 
-const theTetrominoes = [lTetromino, zTetromino, tTetromino, oTetromino];
+const theTetrominoes = [lTetromino, zTetromino, tTetromino, oTetromino, iTetromino];
