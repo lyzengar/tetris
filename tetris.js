@@ -45,3 +45,4 @@ const theTetrominoes = [lTetromino, zTetromino, tTetromino, oTetromino, iTetromi
 
 //Randomly select tetromino
 let random = Math.floor(Math.random() * theTetrominoes.length);
+let current = theTetrominoes[random][currentRotation];
