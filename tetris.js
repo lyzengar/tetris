@@ -42,3 +42,5 @@ const iTetromino = [
 ];
 
 const theTetrominoes = [lTetromino, zTetromino, tTetromino, oTetromino, iTetromino];
+
+let random = Math.floor(Math.random() * theTetrominoes.length);
