@@ -4,6 +4,7 @@ const scoreDisplay = document.querySelector('#score');
 const startBtn = document.querySelector('#start-button');
 const width = 10;
 let currentIndex = 0;
+let currentRotation = 0;
 
 //The Tetrominoes
 
